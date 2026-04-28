@@ -1,0 +1,2 @@
+# GFA-BASIC-AI-RESOURCE-MARKDOWN-DOCUMENT
+Use this to help AI help you code in GFA-BASIC 32

@@ -1,5 +1,4 @@
 # GFA-BASIC-AI-RESOURCE-MARKDOWN-DOCUMENT
-# GFA-BASIC 32 AI Resource
 
 Welcome to the **GFA-BASIC 32 AI Resource** repository. This project is dedicated to providing a comprehensive knowledge base—`GB32_Resource.md`—specifically designed to help Artificial Intelligence models (like Gemini, GPT-4, or Claude) understand and write high-quality code for GFA-BASIC 32 for Windows.
 
